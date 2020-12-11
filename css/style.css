@@ -1,0 +1,5 @@
+.leftbox1, 
+.rightbox1 { width: 536px; background-color: #F8F8F8; display: inline-block;}
+.img {display: inline-block;}
+.texts {display: inline-block;}
+.texts p { width: 260px;}
