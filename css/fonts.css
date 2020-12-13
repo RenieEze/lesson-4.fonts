@@ -7,7 +7,7 @@
         url('../fonts/poppins-extrabold/Poppins-ExtraBold.svg#Poppins-ExtraBold') format('svg');
     font-weight: 800;
     font-style: normal;
-    font-display: swap;
+    font-display: normal;
 }
 
 @font-face {
@@ -19,6 +19,6 @@
         url('../fonts/poppins-semibold/Poppins-SemiBold.svg#Poppins-SemiBold') format('svg');
     font-weight: 600;
     font-style: normal;
-    font-display: swap;
+    font-display: normal;
 }
 
